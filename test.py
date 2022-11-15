@@ -1,1 +1,1 @@
-i = input('')
+print('I love Ajarn Sun')
