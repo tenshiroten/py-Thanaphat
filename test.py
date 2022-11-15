@@ -1,1 +1,1 @@
-print('Hitler')
+i = input('')
